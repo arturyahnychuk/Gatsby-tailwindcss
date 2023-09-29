@@ -129,7 +129,3 @@ components/button.css
   @apply bg-green-600;
 }
 ```
-
-## Notes
-
-If you are looking for a CSS-in-JS alternative, and find the solution too hacky you might want to have a look at this [example](https://github.com/th-km/twin) using twin.macro.
